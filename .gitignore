@@ -1,5 +1,6 @@
 # Directories to ignore
 venv/
+swigwin-4.0.1/
 
 # Python
 __pycache__/
@@ -32,10 +33,12 @@ venv/
 ENV.bak/
 env.bak/
 
+# Build outputs
+*.spec.backup
+
 # IDE
 .vscode/
 .idea/
 *.swp
 *.swo
 *~
-
