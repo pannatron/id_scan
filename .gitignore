@@ -1,5 +1,4 @@
 # Directories to ignore
-swigwin-4.0.1/
 venv/
 
 # Python
@@ -40,6 +39,3 @@ env.bak/
 *.swo
 *~
 
-# OS
-.DS_Store
-Thumbs.db
